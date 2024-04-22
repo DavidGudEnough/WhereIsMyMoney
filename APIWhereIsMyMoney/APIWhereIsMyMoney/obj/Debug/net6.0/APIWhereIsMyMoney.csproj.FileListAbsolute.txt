@@ -1,0 +1,8 @@
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.AssemblyInfo.cs
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.RazorAssemblyInfo.cache
+C:\Users\David\Desktop\APIWhereIsMyMoney\APIWhereIsMyMoney\obj\Debug\net6.0\APIWhereIsMyMoney.RazorAssemblyInfo.cs
